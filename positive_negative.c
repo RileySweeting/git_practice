@@ -13,11 +13,11 @@ int main() {
 
     // Display results
     if (num > 0) {
-        printf('The number %d is positive. \n', num);
+        printf("The number %d is positive. \n", num);
     } else if (num == 0) {
-        printf('The number %d is 0. \n', num);
+        printf("The number %d is 0. \n", num);
     } else {
-        printf('The number %d is negative. \n', num);
+        printf("The number %d is negative. \n", num);
     }
 
     // Return
